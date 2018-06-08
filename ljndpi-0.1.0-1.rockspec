@@ -1,21 +1,21 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "ljndpi"
-version = "0.0.3-1"
+version = "0.1.0-1"
 -- LuaDist source
 source = {
-  tag = "0.0.3-1",
+  tag = "0.1.0-1",
   url = "git://github.com/LuaDist-testing/ljndpi.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/aperezdc/ljndpi",
---    tag = "v0.0.3"
+--    tag = "v0.1.0"
 -- }
 description = {
    summary = "LuaJIT FFI binding for the nDPI deep packet inspection library",
    homepage = "https://github.com/aperezdc/ljndpi",
-   license = "MIT/X11",
+   license = "Apache License 2.0",
    maintainer = "Adrián Pérez de Castro <aperez@igalia.com>"
 }
 dependencies = {
